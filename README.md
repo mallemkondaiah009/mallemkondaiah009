@@ -1,111 +1,170 @@
 <div align="center">
 
-# Mallem Kondaiah Surthani
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mallem%20Kondaiah%20Surthani&fontSize=42&fontAlignY=32&desc=Backend%20Developer%20|%20ML%20Enthusiast%20|%20Full-Stack%20Creator&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-### Backend Developer | ML Enthusiast | Full-Stack Creator
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallem.kondaiah2003@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mallemkondaiah009&style=flat-square&color=blue)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Backend Developer specializing in building scalable APIs and real-time systems. Experienced in Django, Node.js, and machine learning applications with a focus on performance optimization and clean architecture.
-
-**Key Expertise:**
-- 🔧 REST API Development (Django REST Framework, Express.js)
-- 🤖 Machine Learning Integration (Scikit-Learn, Pandas)
-- 🔐 Authentication & Security (JWT, OAuth)
-- 🗄️ Database Design (MongoDB, MySQL)
-- ⚡ Real-Time Applications (WebSockets, Socket.IO)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Backend**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Data Science & ML**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mallem.kondaiah2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mallemkondaiah009&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🏆 Achievements
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+```javascript
+const mallemKondaiah = {
+    role: "Backend Developer",
+    location: "Tirupati, Andhra Pradesh, India",
+    currentlyWorking: ["FastAPI", "Django", "Django REST Framework", "JWT", "OAuth"],
+    currentFocus: ["Scalable APIs", "Real-Time Systems", "ML Integration"],
+    learning: ["System Design", "Cloud Architecture", "Advanced Django"],
+    
+    expertise: {
+        backend: ["Django REST Framework", "Express.js", "FastAPI"],
+        ml: ["Scikit-Learn", "Pandas", "NumPy"],
+        security: ["JWT", "OAuth", "API Authentication"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        realTime: ["WebSockets", "Socket.IO"]
+    },
+    
+    motto: "Building robust systems, one API at a time ⚡"
+};
+```
+
+<br/>
+
+## 🚀 Tech Arsenal
+
+<details open>
+<summary><b>🔥 Core Technologies</b></summary>
+<br/>
+
+**Languages & Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,fastapi,nodejs,express&theme=dark" />
+</p>
+
+**Databases & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,postman,selenium,vscode&theme=dark" />
+</p>
+
+**Data Science & ML**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+</details>
+
+<br/>
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-| Achievement | Platform | Status |
-|------------|----------|--------|
-| 🥇 Python Gold Badge | HackerRank | Earned |
-| 🥈 SQL Silver Badge | HackerRank | Earned |
-| 🔥 50-Day Streak | LeetCode | Completed |
-| 🎓 Elite Certification | NPTEL | Awarded |
+| 🎯 Achievement | 🏅 Platform | 📅 Status |
+|:--------------|:-----------|:---------|
+| <img src="https://img.shields.io/badge/Python-Gold_Badge-FFD700?style=flat-square&logo=python&logoColor=white" /> | HackerRank | ✅ Earned |
+| <img src="https://img.shields.io/badge/SQL-Silver_Badge-C0C0C0?style=flat-square&logo=mysql&logoColor=white" /> | HackerRank | ✅ Earned |
+| <img src="https://img.shields.io/badge/LeetCode-50_Day_Streak-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> | LeetCode | 🔥 Completed |
+| <img src="https://img.shields.io/badge/NPTEL-Elite_Certification-4285F4?style=flat-square&logo=google&logoColor=white" /> | NPTEL | 🎓 Awarded |
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallemkondaiah009&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mallemkondaiah009/mallemkondaiah009/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```python
+# What I'm working on
+current_projects = {
+    "fastapi": "Building high-performance async APIs with FastAPI",
+    "django_drf": "Developing scalable REST APIs with Django REST Framework",
+    "authentication": "Implementing secure JWT and OAuth authentication systems",
+    "api_security": "Best practices for API authentication and authorization"
+}
+
+# Always learning
+learning_queue = ["Microservices", "Cloud Architecture", "System Design", "GraphQL"]
+```
+
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="mailto:mallem.kondaiah2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mallem.kondaiah2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=tokyonight&hide_border=true" />
+<a href="https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**📱 Phone:** +91-6303238978  
+**📍 Location:** Tirupati, Andhra Pradesh, India
+
+<br/>
+
+### 💼 Open for Opportunities
+
+`Backend Development` • `API Design` • `ML Projects` • `Full-Stack Development`
 
 </div>
 
----
+<br/>
 
-## 📫 Contact
+---
 
 <div align="center">
 
-**📧** mallem.kondaiah2003@gmail.com  
-**📱** +91-6303238978  
-**📍** Tirupati, Andhra Pradesh, India
+### 💭 Developer's Wisdom
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238)
-[![Email](https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallem.kondaiah2003@gmail.com)
+*"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
-**💼 Open for:** Backend Development • API Design • ML Projects • Full-Stack Development
+<br/>
 
----
+### ⭐ If you find my work helpful, consider starring my repositories!
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<br/>
 
-⭐ **Star my repositories if you find them helpful!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
