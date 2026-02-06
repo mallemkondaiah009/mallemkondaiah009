@@ -2,64 +2,69 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mallem%20Kondaiah%20Surthani&fontSize=42&fontAlignY=32&desc=Backend%20Developer%20|%20ML%20Enthusiast%20|%20Full-Stack%20Creator&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mallem.kondaiah2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mallemkondaiah009&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mallem.kondaiah2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=mallemkondaiah009&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
+**📍 Location:** Tirupati, Andhra Pradesh, India | **📱 Phone:** +91-6303238978
 
 </div>
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## 👨‍💻 Professional Summary
 
 ```javascript
 const mallemKondaiah = {
     role: "Backend Developer",
     location: "Tirupati, Andhra Pradesh, India",
-    currentlyWorking: ["FastAPI", "Django", "Django REST Framework", "JWT", "OAuth"],
-    currentFocus: ["Scalable APIs", "Real-Time Systems", "ML Integration"],
-    learning: ["System Design", "Cloud Architecture", "Advanced Django"],
+    specialization: ["API Development", "Authentication Systems", "Real-Time Applications"],
+    currentFocus: ["Scalable APIs", "Microservices", "ML Integration"],
     
     expertise: {
-        backend: ["Django REST Framework", "Express.js", "FastAPI"],
+        backend: ["Django REST Framework", "FastAPI", "Express.js"],
+        authentication: ["JWT", "OAuth", "API Security"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
         ml: ["Scikit-Learn", "Pandas", "NumPy"],
-        security: ["JWT", "OAuth", "API Authentication"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
         realTime: ["WebSockets", "Socket.IO"]
     },
     
-    motto: "Building robust systems, one API at a time ⚡"
+    motto: "Building robust, scalable backend systems ⚡"
 };
 ```
 
-<br/>
+---
 
-## 🚀 Tech Arsenal
+## 🛠️ Technical Skills
 
-<details open>
-<summary><b>🔥 Core Technologies</b></summary>
-<br/>
-
-**Languages & Frameworks**
-
+### **Backend Frameworks & Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,fastapi,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,django,fastapi,nodejs,express&theme=dark" />
 </p>
 
-**Databases & Tools**
-
+### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,postman,selenium,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" />
 </p>
 
-**Data Science & ML**
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,selenium,vscode&theme=dark" />
+</p>
 
+### **Data Science & Machine Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -67,104 +72,180 @@ const mallemKondaiah = {
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-</details>
+### **Frontend Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
 
-<br/>
+---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-| 🎯 Achievement | 🏅 Platform | 📅 Status |
-|:--------------|:-----------|:---------|
-| <img src="https://img.shields.io/badge/Python-Gold_Badge-FFD700?style=flat-square&logo=python&logoColor=white" /> | HackerRank | ✅ Earned |
-| <img src="https://img.shields.io/badge/SQL-Silver_Badge-C0C0C0?style=flat-square&logo=mysql&logoColor=white" /> | HackerRank | ✅ Earned |
-| <img src="https://img.shields.io/badge/LeetCode-50_Day_Streak-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> | LeetCode | 🔥 Completed |
-| <img src="https://img.shields.io/badge/NPTEL-Elite_Certification-4285F4?style=flat-square&logo=google&logoColor=white" /> | NPTEL | 🎓 Awarded |
+| Achievement | Platform | Status |
+|:------------|:---------|:-------|
+| **Python Gold Badge** | HackerRank | ✅ Earned |
+| **SQL Silver Badge** | HackerRank | ✅ Earned |
+| **50 Day Streak** | LeetCode | 🔥 Completed |
+| **Elite Certification** | NPTEL | 🎓 Awarded |
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallemkondaiah009&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mallemkondaiah009/mallemkondaiah009/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-## 🎯 Current Focus
+## 🎯 Current Focus Areas
 
 ```python
-# What I'm working on
-current_projects = {
-    "fastapi": "Building high-performance async APIs with FastAPI",
-    "django_drf": "Developing scalable REST APIs with Django REST Framework",
-    "authentication": "Implementing secure JWT and OAuth authentication systems",
-    "api_security": "Best practices for API authentication and authorization"
+# Active Projects & Learning
+current_work = {
+    "api_development": {
+        "fastapi": "Building high-performance async REST APIs",
+        "django_drf": "Developing enterprise-grade Django REST APIs",
+        "authentication": "Implementing JWT and OAuth authentication"
+    },
+    "learning": [
+        "Microservices Architecture",
+        "Cloud Deployment (AWS/Azure)",
+        "System Design Patterns",
+        "GraphQL APIs"
+    ],
+    "goals": [
+        "Contributing to open-source projects",
+        "Building production-ready scalable systems",
+        "Mastering cloud infrastructure"
+    ]
 }
-
-# Always learning
-learning_queue = ["Microservices", "Cloud Architecture", "System Design", "GraphQL"]
 ```
 
-<br/>
+---
 
-## 📬 Let's Connect
+## 🧠 Technical Architecture
 
 <div align="center">
 
-<a href="mailto:mallem.kondaiah2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mallem.kondaiah2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**📱 Phone:** +91-6303238978  
-**📍 Location:** Tirupati, Andhra Pradesh, India
-
-<br/>
-
-### 💼 Open for Opportunities
-
-`Backend Development` • `API Design` • `ML Projects` • `Full-Stack Development`
+```mermaid
+graph LR
+    A[Backend Development] --> B[Django/FastAPI]
+    A --> C[RESTful APIs]
+    A --> D[Authentication]
+    B --> K[Django REST Framework]
+    E[Database] --> F[MongoDB]
+    E --> G[MySQL]
+    E --> L[PostgreSQL]
+    H[ML/AI] --> I[Scikit-Learn]
+    H --> J[Data Analysis]
+    
+    style A fill:#58A6FF
+    style E fill:#58A6FF
+    style H fill:#58A6FF
+```
 
 </div>
 
-<br/>
+---
+
+## 💼 Professional Interests
+
+<div align="center">
+
+**Open for Opportunities In:**
+
+`Backend Engineering` • `API Architecture` • `System Design` • `ML Engineering` • `Full-Stack Development`
+
+</div>
+
+---
+
+## 📈 Development Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       15 hrs 45 mins  ████████████████░   52.8%
+Django        8 hrs 30 mins  ████████░░░░░░░░░   28.5%
+FastAPI       4 hrs 15 mins  ████░░░░░░░░░░░░░   14.2%
+SQL           1 hr 15 mins   █░░░░░░░░░░░░░░░░    4.2%
+Other            5 mins      ░░░░░░░░░░░░░░░░░    0.3%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🛠️ Development Environment
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                  💻 Development Setup                     ║
+╠═══════════════════════════════════════════════════════════╣
+║  Operating System    : Linux / Windows                    ║
+║  Code Editor         : Visual Studio Code                 ║
+║  Terminal            : Git Bash / PowerShell              ║
+║  API Testing         : Postman / Thunder Client           ║
+║  Version Control     : Git + GitHub                       ║
+║  Containerization    : Docker                             ║
+║  Database Tools      : MongoDB Compass / MySQL Workbench  ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🎨 Dynamic Content
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 Developer's Wisdom
+### 💡 Philosophy
 
 *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
 
-<br/>
+### ⭐ Support My Work
 
-### ⭐ If you find my work helpful, consider starring my repositories!
+If you find my projects helpful, consider giving them a star!
 
-<br/>
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mallemkondaiah009/mallemkondaiah009/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**© 2026 Mallem Kondaiah Surthani. Building the future, one API at a time.**
 
 </div>
