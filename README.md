@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mallem%20Kondaiah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238)
 [![Gmail](https://img.shields.io/badge/Gmail-mallem.kondaiah2003-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mallem.kondaiah2003@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=mallemkondaiah009&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/mallemkondaiah009)
-[![Location](https://img.shields.io/badge/📍_Tirupati,_Andhra_Pradesh,_India-64748b?style=flat-square)](https://github.com/mallemkondaiah009)
+[![Location](https://img.shields.io/badge/📍_Hyderabad,_Telangana,_India-64748b?style=flat-square)](https://github.com/mallemkondaiah009)
 
 </div>
 
