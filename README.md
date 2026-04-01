@@ -25,7 +25,7 @@
 class MallemKondaiah:
 
     role           = "Backend Developer"
-    location       = "Tirupati, Andhra Pradesh, India"
+    location       = "Hyderabad, Telangana, India"
     contact        = "+91-6303238978  |  mallem.kondaiah2003@gmail.com"
 
     stack = {
