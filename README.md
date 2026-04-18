@@ -388,6 +388,6 @@ Other             5 mins     ░░░░░░░░░░░░░░░░░
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20the%20future%2C%20one%20API%20at%20a%20time&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
-<sub><b>© 2026 Mallem Kondaiah Surthani</b> &nbsp;·&nbsp; Tirupati, Andhra Pradesh, India</sub>
+<sub><b>© 2026 Mallem Kondaiah Surthani</b> &nbsp;·&nbsp; Hyderabad,Telangana,India</sub>
 
 </div>
