@@ -187,15 +187,20 @@ ML / Data Sci    █████████████░░░░░░░  6
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=6366f1&fire=f97316&currStreakLabel=6366f1" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=f97316&text_color=94a3b8" width="49%" />
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=94a3b8" width="40%" />
+
+</div>
 
 ---
 
