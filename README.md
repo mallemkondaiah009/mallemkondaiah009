@@ -34,6 +34,7 @@ class MallemKondaiah:
         "databases" : ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
         "auth"      : ["JWT", "OAuth 2.0", "API Security"],
         "devops"    : ["Docker", "Git", "GitHub", "Postman"],
+        "ai"        : ["LangChain", "LangGraph", "RAG", "ChromaDB", "OpenAI", "Claude", "HuggingFace", "Antigravity"],
         "ml"        : ["Scikit-Learn", "Pandas", "NumPy", "Matplotlib"],
     }
 
@@ -99,6 +100,22 @@ class MallemKondaiah:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🧠 AI, LLMs & RAG
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 </td>
   </tr>
@@ -334,14 +351,14 @@ Other             5 mins     ░░░░░░░░░░░░░░░░░
 ┌──────────────────────────────────────────────────────────────────┐
 │                       💻  Dev Environment                        │
 ├──────────────────────────┬───────────────────────────────────────┤
-│  OS                      │  Linux / Windows                      │
+│  OS                      │  Windows                              │
 │  Editor                  │  Visual Studio Code                   │
 │  Terminal                │  Git Bash / PowerShell                │
-│  API Testing             │  Postman / Thunder Client             │
+│  API Testing             │  Postman                              │
 │  Version Control         │  Git + GitHub                         │
 │  Containerization        │  Docker                               │
 │  Task Queue              │  Celery + Redis                       │
-│  Database GUIs           │  MongoDB Compass / MySQL Workbench    │
+│  Database GUIs           │  MySQL Workbench / pgadmin            │
 └──────────────────────────┴───────────────────────────────────────┘
 ```
 
@@ -361,7 +378,7 @@ Other             5 mins     ░░░░░░░░░░░░░░░░░
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallem-kondaiah-surthani-5887bb238)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallem-kondaiah-surthani-backend-developer)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallem.kondaiah2003@gmail.com)
 
